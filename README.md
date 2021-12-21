@@ -34,6 +34,14 @@
       height="30"
       width="40"
   /></a>
+  <a href="linkedin.com/in/kalyani-kakade-473a87222" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      alt="kalyani-kakade-473a87222"
+      height="30"
+      width="40"
+  /></a>
   <a href="https://twitter.com/kakadekalyani" target="blank"
     ><img
       align="center"
