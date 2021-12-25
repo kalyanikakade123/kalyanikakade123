@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/kalyani-kakade" target="blank"
+  <a href="https://codepen.io/123kk" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
@@ -34,7 +34,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="linkedin.com/in/kalyani-kakade-473a87222" target="blank"
+  <a href="https://www.linkedin.com/in/kalyani-kakade-473a87222/" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
