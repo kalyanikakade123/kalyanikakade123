@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on My Improvement
 
 - 🌱 I’m currently learning **Web Devlopement**
-<!-- 👯 I’m looking to collaborate on .../-->
-<!-- 🤔 I’m looking for help with ...-->
+  <!-- 👯 I’m looking to collaborate on .../-->
+  <!-- 🤔 I’m looking for help with ...-->
 
 - 💬 Ask me about **C Language, HTML, CSS and JS**
 
@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/kalyani-kakade-473a87222/" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="kalyani-kakade-473a87222"
       height="30"
       width="40"
@@ -45,11 +45,12 @@
   <a href="https://twitter.com/kakadekalyani" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="kakadekalyani"
       height="30"
       width="40"
   /></a>
+  <a href="https://discord.gg/Kalyani#8624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kalyani#8624" height="30" width="40" /></a>
   <a href="https://www.facebook.com/kalyani.kakade.925" target="blank"
     ><img
       align="center"
@@ -61,7 +62,7 @@
   <a href="https://www.instagram.com/kalyani.kakade.925/" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg "
       alt="kalyani.kakade.925"
       height="30"
       width="40"
@@ -80,18 +81,18 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
       width="40"
       height="40"
     />
@@ -103,6 +104,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
       width="40"
       height="40"
     />
