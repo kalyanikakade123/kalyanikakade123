@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalyani Kakade</h1>
+<h1 align="center">Hey 👋, I'm Kalyani Kakade</h1>
 <h3 align="center">Good Learner 🙂 Trying To Do Something New!!! </h3>
 
 <p align="left">
