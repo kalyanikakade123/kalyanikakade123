@@ -62,7 +62,7 @@
   <a href="https://www.instagram.com/kalyani.kakade.925/" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg "
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
       alt="kalyani.kakade.925"
       height="30"
       width="40"
