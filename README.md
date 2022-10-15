@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kalyani Kakade</h1>
-<h3 align="center">Good Learner 🙂 Trying To Do Something New!!! </h3>
+<h3 align="center">Front-End Web Developer | UI/UX Designer | Java Programmer</h3>
 
 <p align="left">
   <img
