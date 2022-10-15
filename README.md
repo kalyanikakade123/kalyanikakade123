@@ -8,13 +8,13 @@
   />
 </p>
 
-- 🔭 I’m currently working on My Improvement
+- 🔭 I’m currently learning new skills
 
 - 🌱 I’m currently learning **Web Devlopement**
   <!-- 👯 I’m looking to collaborate on .../-->
   <!-- 🤔 I’m looking for help with ...-->
 
-- 💬 Ask me about **C Language, HTML, CSS and JS**
+- 💬 Ask me about **C Language, HTML, CSS, JS, Java and UI/UX**
 
 - 📫 How to reach me **kalyanikakade65@gmail.com**
 
