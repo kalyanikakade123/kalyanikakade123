@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kalyani Kakade</h1>
 <h3 align="center">Front-End Web Developer | UI/UX Designer | Java Programmer</h3>
 
+[![@kakadekalyani's Holopin board](https://holopin.me/kakadekalyani)](https://holopin.io/@kakadekalyani)
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=kalyanikakade123&label=Profile%20views&color=0e75b6&style=flat"
@@ -68,9 +69,6 @@
       width="40"
   /></a>
 </p>
-
-<h3 align="left">Achievments</h3>
-[![@kakadekalyani's Holopin board](https://holopin.me/kakadekalyani)](https://holopin.io/@kakadekalyani)
 
 <h3 align="left">Languages and Tools:</h3>
 
