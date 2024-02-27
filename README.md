@@ -8,17 +8,18 @@
   />
 </p>
 
-- 🔭 I’m currently learning new skills
+- 🔭 I’m updating myself with new technologies
 
-- 🌱 I’m currently learning **Web Devlopement**
-  <!-- 👯 I’m looking to collaborate on .../-->
+- 🌱 I’m currently learning **Servlet & JSP**
+
+- 👯 I’m looking to collaborate on open source projects
   <!-- 🤔 I’m looking for help with ...-->
 
 - 💬 Ask me about **C Language, HTML, CSS, JS, Java and UI/UX**
 
 - 📫 How to reach me **kalyanikakade65@gmail.com**
 
-- 🤔 I'm Currently A **BEGINEER**
+<!-- - 🤔 I'm Currently A **BEGINEER** -->
 
 - 😄 Pronouns: She/Her
 
@@ -128,6 +129,38 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.figma.com/resource-library/" target="_blank">
+    <img
+      src="https://cdn1.vectorstock.com/i/1000x1000/33/10/ux-ui-design-icon-outline-vector-33243310.jpg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"
+      alt="git"
+      width="30"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img
+      src="https://www.svgrepo.com/show/354202/postman-icon.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://dev.java/" target="_blank">
+    <img
+      src="https://www.svgrepo.com/show/184143/java.svg"
+      alt="bootstrap"
       width="40"
       height="40"
     />
